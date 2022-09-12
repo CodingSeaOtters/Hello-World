@@ -1,0 +1,61 @@
+[33mcommit 1de01da1c4edd4beb67d8ea4d4bf7056354a4534[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: CodingSeaOtters <99719541+CodingSeaOtters@users.noreply.github.com>
+Date:   Mon Sep 12 08:53:21 2022 +0200
+
+    Updated readme
+
+[33mcommit a9d18f4b9d45be368d6d8950804b7364c49e3591[m
+Author: CodingSeaOtters <99719541+CodingSeaOtters@users.noreply.github.com>
+Date:   Mon Sep 12 08:46:58 2022 +0200
+
+    Create README.md
+
+[33mcommit 2a52ab3f064e4a897e81f89046a6a09e87fdf5d4[m
+Merge: 5782f87 04bee88
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Mon Sep 12 08:36:03 2022 +0200
+
+    merge now
+
+[33mcommit 04bee889e81ba28d219754016eb49b03aa414695[m[33m ([m[1;32mhello-world-images[m[33m)[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Thu Sep 8 08:37:05 2022 +0200
+
+    added new images
+
+[33mcommit 5782f8734dd24934c93da165e405a88d4476f27b[m
+Merge: f4caa73 cafac28
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Thu Sep 8 08:33:56 2022 +0200
+
+    Standard commit
+
+[33mcommit f4caa73ae9d1f07b206753dca03585890ecf1ddd[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Wed Sep 7 15:31:42 2022 +0200
+
+    updated index.html with emergency fix
+
+[33mcommit cafac282695b00fd62bb7350ea844e16d3eacb5c[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Wed Sep 7 15:26:53 2022 +0200
+
+    Added image to hello World
+
+[33mcommit f63beb37f89b305f2318804c6ec4296a8165e844[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Wed Sep 7 15:17:23 2022 +0200
+
+    Updated index.html with a new line
+
+[33mcommit f26dc2301b7a7095367a9482b6a1846287ba7efd[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Wed Sep 7 15:14:56 2022 +0200
+
+    First release of Hello World!
+
+[33mcommit 58a90486d301ba9f1a25845214ee27ea9cac2e39[m
+Author: Sebastian Rahn <se.rahn@arcor.de>
+Date:   Wed Sep 7 14:59:52 2022 +0200
+
+    Start
